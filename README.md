@@ -27,10 +27,6 @@ Here are some of the projects I've been working on:
 - **Description**: Includes iptables, ipsets, nftables to deploy a core platform designed to be modular. components, for the time being, will be hand selected and dropped in. My intent is for it to used in anticipation of providing various services to a potentially hostile network.
 - **Technologies Used**: Bash, Systemd-timers, iptables, nftables, ipset
 
-### [Bash Shell User Environment](Link to Project)
-- **Description**: 
-- **Technologies Used**: Python, Wireshark, SNMP
-
 ## Contact Me
 
 - **Email**: joshuadloken437@hotmail.com
