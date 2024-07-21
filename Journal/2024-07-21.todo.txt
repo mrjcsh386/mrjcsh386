@@ -1,0 +1,11 @@
+I'm planning on generating an ascii map of my network so I can continue to 
+comply with my intent for users to be able to use my repos in server installs 
+of Linux.
+
+In addition to this, I'm going to update 'Documents' with usage for git. I 
+also would like to include ansible, and azure-cli. Nothing fancy for the moment 
+just wanting to get started.
+
+On a personal note, I will be architecting a schedule for the installation of 
+braincastle. Steps to be made and at what point security measures should be 
+baked into the process if someone is following along.
