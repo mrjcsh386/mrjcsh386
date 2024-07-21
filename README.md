@@ -14,6 +14,9 @@ I'm a passionate Network Systems Engineer with experience in network design and 
 ## Projects
 
 Here are some of the projects I've been working on:
+### [Documents](https://github.com/mrjcsh386/Documents)
+- **Description**: To serve as a central point of documentation. It is my goat that technical documentation will point to documents contained in here. This should help keep things from being repeated or different.
+- **Technologies Used**: Layer 8 processing power!
 
 ### [BrainCastle Network Setup](https://github.com/mrjcsh386/Brain_Castle_Notes)
 - **Description**: A comprehensive network setup involving two hosts and three virtual machines for secure and efficient web hosting involving Azure services.
